@@ -2,4 +2,3 @@
 
 - Description: Implementing the Battleship game by Assembly Language (MIPS).
 - Score: 8/10.
-- Notes: 
